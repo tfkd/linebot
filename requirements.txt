@@ -4,7 +4,7 @@ gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.11.3
 MarkupSafe==0.23
-redis==4.5.3
+redis==4.5.4
 requests==2.20.0
 rq==0.6.0
 Werkzeug==2.2.3
